@@ -1,6 +1,6 @@
 # onlinemovieticket_CE155_CE156
 
--------> STEP FOR START YOUR PROJECT IN YOUR MACHINE.
+-------> STEP FOR START THE PROJECT IN YOUR MACHINE.
 
 ----> PREREQUISTE
 ---> Flutter Should Downloaded In Your Machine.
